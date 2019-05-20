@@ -1,0 +1,14 @@
+./doTest.sh 8 ../inputs/random-x32-y32-z3-n64.txt
+./doTest.sh 5 ../inputs/random-x32-y32-z3-n96.txt
+./doTest.sh 10 ../inputs/random-x48-y48-z3-n48.txt
+./doTest.sh 15 ../inputs/random-x48-y48-z3-n64.txt
+./doTest.sh 4 ../inputs/random-x64-y64-z3-n48.txt
+./doTest.sh 50 ../inputs/random-x64-y64-z3-n64.txt
+./doTest.sh 2 ../inputs/random-x128-y128-z3-n64.txt
+./doTest.sh 8 ../inputs/random-x128-y128-z3-n128.txt
+./doTest.sh 5 ../inputs/random-x128-y128-z5-n128.txt
+./doTest.sh 1 ../inputs/random-x256-y256-z3-n256.txt
+./doTest.sh 7 ../inputs/random-x256-y256-z5-n256.txt
+./doTest.sh 0 ../inputs/random-x256-y256-z5-n256.txt
+./doTest.sh h ../inputs/random-x256-y256-z5-n256.txt
+./doTest.sh -10 ../inputs/random-x256-y256-z5-n256.txt
